@@ -214,3 +214,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/linux,macos,python,windows,jupyternotebook,visualstudiocode
+ipython_profiles/profile_s1iduser/history.sqlite
