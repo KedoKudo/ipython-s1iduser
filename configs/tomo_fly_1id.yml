@@ -17,7 +17,11 @@ tomo:
   omega_step:    0.5      # degree
   omega_start:   0.0      # degree
   omega_end:     5.0      # degree
+  slew_speed:    3
+  accl:          3
   n_frames:      5        # 5 frames -> 1 images
+  ROT_STAGE_FAST_SPEED:  50
+  
 
 output:        
   filepath:    null       # use testing location
