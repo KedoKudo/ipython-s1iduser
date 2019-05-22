@@ -23,3 +23,6 @@ output:
   filepath:    null       # use testing location
   fileprefix:  test       # specify file name
   type:        hdf5       # [tiff|tif, hdf|hdf1|hdf5]
+
+misc:
+  proposal_id: 'TEST'     # proposal id for book keeping
